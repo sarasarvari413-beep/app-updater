@@ -1,7 +1,7 @@
 {
-  "versionCode": 548,
-  "versionName": "1.548",
-  "forceUpdate": false,
+  "versionCode": 607,
+  "versionName": "1.607",
+  "forceUpdate": true,
   "message": "نسخه جدید تایگر با بهبودهای مهم آماده است. لطفاً به‌روزرسانی کنید.",
   "bazaarUrl": "https://cafebazaar.ir/app/com.example.yourpackage",
   "myketUrl": "https://myket.ir/app/com.example.yourpackage"
